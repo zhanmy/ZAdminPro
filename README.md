@@ -27,7 +27,6 @@
 </h3>
 <h3>全局状态使用vue3自带的 provide/inject 方法，如需使用Vuex可自行引入</h3>
 
-# xcxht
 
 ## Project setup
 ```
