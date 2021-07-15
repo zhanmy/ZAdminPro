@@ -1,27 +1,3 @@
-# xcxht
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve / npm run dev
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <h2>Vue3 + Element-plus 企业级中台前端/设计解决方案</h2>
 
@@ -50,3 +26,28 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
     <a href="https://quilljs.com/docs/quickstart/" target="_blank">https://quilljs.com/docs/quickstart/</a>
 </h3>
 <h3>全局状态使用vue3自带的 provide/inject 方法，如需使用Vuex可自行引入</h3>
+
+# xcxht
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve / npm run dev
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
