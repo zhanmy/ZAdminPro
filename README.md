@@ -2,6 +2,11 @@
 <h2>Vue3 + Element-plus 企业级中台前端/设计解决方案</h2>
 
 <h3>
+    演示地址：
+    <a href="http://htg.hljykb.com/" target="_blank">http://htg.hljykb.com/</a>
+</h3>
+---------------------------------
+<h3>
     公共组件使用Element-plus(VUE3)，地址：
     <a href="https://element-plus.gitee.io/#/zh-CN" target="_blank">https://element-plus.gitee.io/#/zh-CN</a>
 </h3>
